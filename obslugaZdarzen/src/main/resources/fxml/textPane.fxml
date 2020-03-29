@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<VBox fx:controller="com.poweremabox.obslugaZdarzen.controller.TextPaneController" xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml">
+    <HBox>
+        <TextArea fx:id="text1TextArea" prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS"/>
+        <TextArea fx:id="text2TextArea" prefHeight="200.0" prefWidth="200.0" HBox.hgrow="ALWAYS"/>
+
+    </HBox>
+</VBox>

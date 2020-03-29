@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+
+<VBox fx:controller="com.poweremabox.obslugaZdarzen.controller.MainController"
+      xmlns="http://javafx.com/javafx"
+      xmlns:fx="http://javafx.com/fxml">
+    <children>
+    <fx:include fx:id="textPane" source="textPane.fxml"/>
+    <fx:include fx:id="buttonPane" source="buttonPane.fxml"/>
+    </children>
+</VBox>
+
