@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+
+<Button xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1"
+        fx:controller="com.poweremabox.obslugaZdarzen.controller.ButtonPaneController"
+        fx:id="button1Button"
+        maxWidth="1.7976931348623157E308"
+        mnemonicParsing="false" text="Clear Window"/>
+
